@@ -40,6 +40,8 @@ Back-propagation is a commonly used method for training Neural Networks.
 
 1. [3Blue1Brown Neural Network playlist](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
    1. This is amazing! 
+2. [Essence of linear Algebra playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+3. [Multivariable functions and Multivariable Calculus](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)
 
 ### Cheat Sheets
 

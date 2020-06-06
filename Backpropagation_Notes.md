@@ -33,7 +33,8 @@ Back-propagation is a commonly used method for training Neural Networks.
 ### Detailed Matrix Calculus sessions at TWIMAL: 
 
 1. Review of "The Matrix Calculus you need for Deep Learning" lead by **Joseph Catanzarite**
-   1. https://www.youtube.com/playlist?list=PLesM8TI75z-HTvRV5bWPMmMx-dcTH3cHW
+   1. Set of three review lectures; Great mathematical detail
+   2. [Youtube Playlist](https://www.youtube.com/playlist?list=PLesM8TI75z-HTvRV5bWPMmMx-dcTH3cHW)
 
 ### Short Youtube video series on Neural Network and Backpropagation
 
